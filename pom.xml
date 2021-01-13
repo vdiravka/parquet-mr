@@ -488,6 +488,7 @@
             <exclude>.idea/**</exclude>
             <exclude>*/jdiff/*.xml</exclude>
             <exclude>.travis.yml</exclude>
+            <exclude>jitpack.yml</exclude>
             <exclude>licenses/**</exclude>
             <exclude>protobuf_install/**</exclude>
             <exclude>thrift-${thrift.version}/**</exclude>
